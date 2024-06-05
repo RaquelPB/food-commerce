@@ -1,0 +1,8 @@
+{
+  "short_name": "Aplicação React",
+  "name": "Food-commerce",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#F83600",
+  "background_color": "#141518"
+}
