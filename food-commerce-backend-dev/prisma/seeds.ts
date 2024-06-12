@@ -162,7 +162,7 @@ const snacks = [
     name: "Flocos",
     description:
       "O tradicional flocos vem com cobertura em chocolate para adocicar seu dia.",
-    price: 7,
+    price: 0.01,
     image: "https://i.imgur.com/qgnFLiy.jpg",
   },
   {
